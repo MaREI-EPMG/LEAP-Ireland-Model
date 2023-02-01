@@ -19,7 +19,7 @@ License information for LEAP is available within the License tab. LEAP provides 
 <h2> Installing the LEAP Ireland Model </h2>
 Once you have a licensed version of LEAP installed, follow these steps to access the LEAP Ireland 2050 model:
 
-(1) Download the LEAP_IE_4.88.leap file. (2) In LEAP, navigate to Area -> Install -> Install from file.... (3) Navigate to the location where you downloaded the LEAP_IE_4.88.leap file and click "Yes".
+(1) Download the LEAP_Ireland.leap file. (2) In LEAP, navigate to Area -> Install -> Install from file.... (3) Navigate to the location where you downloaded the LEAP_Ireland.leap file and click "Yes".
 
 <h2> LEAP Training material </h2>
 LEAP-SEI provide a range of training material in different languages if you would like to learn more about the development/ operation of LEAP models.
